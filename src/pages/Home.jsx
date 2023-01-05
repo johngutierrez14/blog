@@ -8,19 +8,19 @@ const Home = () => {
       id: 1,
       title: "Lorem Ipsum dolor sit amet, consectetur adipiscing elit",
       desc: "Lorem Ipsum dolor sit amet, consectetur adipiscing elit",
-      img: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F4245826%2Fpexels-photo-4245826.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-riccardo-bertolo-4245826.jpg%26fm%3Djpg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Flandscape%2F&tbnid=87_I_JiMjGQuqM&vet=12ahUKEwiQxK6Rk6D8AhUCkYQIHaqOAicQMygCegUIARDJAQ..i&docid=OKY9mIZ1M32xNM&w=5184&h=2920&q=image%20free%20copyright&ved=2ahUKEwiQxK6Rk6D8AhUCkYQIHaqOAicQMygCegUIARDJAQ"
+      img: "https://images.pexels.com/photos/839443/pexels-photo-839443.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
       id: 2,
       title: "Lorem Ipsum dolor sit amet, consectetur adipiscing elit",
       desc: "Lorem Ipsum dolor sit amet, consectetur adipiscing elit",
-      img: ""
+      img: "https://images.pexels.com/photos/267569/pexels-photo-267569.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
       id: 3,
       title: "Lorem Ipsum dolor sit amet, consectetur adipiscing elit",
       desc: "Lorem Ipsum dolor sit amet, consectetur adipiscing elit",
-      img: ""
+      img: "https://images.pexels.com/photos/3098619/pexels-photo-3098619.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
   ]
 
